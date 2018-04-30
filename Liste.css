@@ -1,0 +1,32 @@
+#drinks{
+
+list-style: circle;
+
+
+}
+#food{
+
+list-style: square;
+
+
+}
+#eat{
+
+list-style: upper-alpha;
+
+}
+#meal{
+
+list-style: upper-roman;
+
+
+}
+ul.break {
+width: 200px;
+list-style-image: url("https://0.academia-photos.com/59940205/15631747/16394249/tiny_ketevan.khutsishvili.jpg");
+}
+#br{
+
+    list-style: inside;
+    list-style-image: url("https://0.academia-photos.com/59940205/15631747/16394249/tiny_ketevan.khutsishvili.jpg");
+}

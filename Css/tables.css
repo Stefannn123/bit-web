@@ -1,0 +1,35 @@
+table{
+
+
+/* border:2px solid black; */
+margin: 0 auto;
+
+}
+
+
+td, th {
+    padding: 10px 0px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background-color: yellow;
+}
+
+tr:nth-of-type(odd) {
+    background-color: rgb(194, 191, 191);
+}
+
+img {
+   
+    height: 100px;
+    align-content: center;
+}
+
+.ime{
+    border:2px solid black;
+    background-color: maroon;
+    padding: 10px;
+    color: white;
+}

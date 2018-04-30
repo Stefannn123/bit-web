@@ -1,0 +1,88 @@
+#first{
+
+width: 200px;
+height: 200px;
+background-color: blue;
+
+
+}
+#second{
+
+width: 200px;
+height: 200px;
+background-color: brown;
+
+}
+#third{
+
+    width: 200px;
+    height: 200px;
+    background-color:yellow;
+
+}
+#forth{
+
+position: relative;
+width: 200px;
+height: 200px;
+background-color: tomato;
+
+}
+#five{
+
+position: relative;
+left: 45px;
+bottom: 70px;
+background-color: springgreen;
+width: 200px;
+height: 200px;
+
+}
+#six{
+
+position: relative;
+width: 200px;
+height: 200px;
+background-color: sienna;
+bottom: 130px;
+left: 100px;
+
+}
+#seven{
+position: absolute;
+width: 200px;
+height: 200px;
+background-color: red;
+top:400px;
+right: 0;
+
+}
+
+
+#eight{
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color:yellowgreen;
+    top: 200px;
+    right: 0;
+    
+}
+#nine{
+   
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: turquoise;
+    right: 0;
+    
+   
+
+}
+
+#Div{
+
+position: relative;
+
+}

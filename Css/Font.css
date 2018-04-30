@@ -1,0 +1,129 @@
+#First-text{
+
+text-transform: uppercase;
+text-decoration: underline;
+letter-spacing: 5px;
+text-align: left;
+}
+
+#Second-text{
+
+text-transform: lowercase;
+text-decoration: line-through;
+line-height: 200%;
+text-align: right;
+
+
+}
+
+#third-text {
+    font-style: normal;
+    text-align: center;
+}
+
+div > a  {
+    text-shadow: 22px 22px 7px rgba(150, 150, 150, 1);
+    color: purple;
+
+    
+}
+
+
+a:link{
+
+color: red;
+
+
+}
+
+a:visited{
+
+color:black
+
+
+
+}
+a:hover{
+
+
+color: green;
+
+}
+a:active{
+
+color: blue;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    font-weight: 400;
+    font-family: Roboto-Black;
+}
+    font-size: 20px;
+
+#First-text{
+
+font-family: 'roboto-black', 'Times New Roman', Times, serif;
+font-style:oblique;
+font-size:200%;
+
+
+}
+
+#Second-text{
+
+font-family: 'black han sans', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: oblique;
+
+
+}
+#Third-text{
+
+
+
+font-family: 'Gugi','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+span {
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'roboto-black';
+    src: url('Font/Roboto-Black.ttf');
+} */
